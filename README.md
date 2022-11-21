@@ -1,6 +1,8 @@
 ### Hi there, I'm [Lee Kelleher][website] 👋
 
-I have been working in web development since 1996. I am well known within the [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS/) community, having been involved with the project since 2007, and released many open-source community plugins and packages. 
+I have been working in web development since 1996. I am well known within the [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS/) community, having been involved with the project since 2007, and released many open-source community plugins and packages.
+
+[![leekelleher's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekelleher)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
