@@ -2,8 +2,6 @@
 
 I have been working in web development since 1996. I am well known within the [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS/) community, having been involved with the project since 2007, and released many open-source community plugins and packages.
 
-[![leekelleher's GitHub stats](https://github-readme-stats.vercel.app/api?username=leekelleher)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Connect with me:
 
 [<img align="left" alt="Personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
