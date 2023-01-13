@@ -6,6 +6,7 @@ I have been working in web development since 1996. I am well known within the [U
 
 [<img align="left" alt="Personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mastodon.svg" />][mastodon]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
@@ -37,3 +38,4 @@ I am working my way through the [1001 Albums You Must Hear Before You Die](https
 [github]: https://github.com/leekelleher
 [twitter]: https://twitter.com/leekelleher
 [linkedin]: https://www.linkedin.com/in/leekelleher/
+[mastodon]: https://mastodon.social/@leekelleher
