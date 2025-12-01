@@ -27,13 +27,6 @@ I have been working in web development since 1996. I am well known within the [U
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
 <br />
 
-### Music
-
-I am working my way through the [1001 Albums You Must Hear Before You Die](https://en.wikipedia.org/wiki/1001_Albums_You_Must_Hear_Before_You_Die) book, listening to [one random album each day](https://1001albumsgenerator.com/shares/614dc96c27361745b5ad4629).
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vertino&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=vertino&redirect=true)
-<br />
-
 [website]: https://leekelleher.com
 [github]: https://github.com/leekelleher
 [twitter]: https://twitter.com/leekelleher
